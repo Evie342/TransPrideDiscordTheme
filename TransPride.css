@@ -118,18 +118,18 @@ body {
 
     /* base colors */
     --red-1: oklch(0.64 0.2059 25.11);
-    --red-2: oklch(70% 0.12 0);
+    --red-2: oklch(0.64 0.2059 25.11);
     --red-3: oklch(64% 0.12 0);
     --red-4: oklch(58% 0.12 0);
     --red-5: oklch(52% 0.12 0);
 
-    --green-1: oklch(0.88 0.2354 148.57);
-    --green-2: oklch(70% 0.11 170);
+    --green-1: oklch(0.70 0.2354 148.57);
+    --green-2: oklch(0.70 0.2354 148.57);
     --green-3: oklch(64% 0.11 170);
     --green-4: oklch(58% 0.11 170);
     --green-5: oklch(52% 0.11 160);
 
-    --blue-1: oklch(76% 0.1 215);
+    --blue-1: oklch(0.57 0.1628 264.052);
     --blue-2: oklch(70% 0.1 215);
     --blue-3: oklch(64% 0.1 215);
     --blue-4: oklch(58% 0.1 215);
